@@ -1,0 +1,9 @@
+Name        Grade
+peter		A
+lilly		A
+sasha  		B
+bobby		A
+dave		B
+billy		D
+joey		B
+dodo		B
